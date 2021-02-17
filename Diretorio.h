@@ -2,7 +2,7 @@
 #include <string>
 #include <vector>
 #include <math.h>
-#include "balde.h"
+#include "Balde.h"
 
 
 class Diretorio {
