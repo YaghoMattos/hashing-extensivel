@@ -1,7 +1,7 @@
-﻿# Atividade de Hashing Extensível
+# Implementação de Hashing Extensível em c++
 
-### compilar
+### Para Compilar:
 g++ *.cpp -o executavel.exe
 
-### rodar
+### Para rodar:
 .\executavel.exe
